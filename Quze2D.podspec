@@ -80,7 +80,7 @@ Quze2D is a podspec test, hope success
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/RowingCaptainChen/Quze2D.git", :tag => "s.version" }
+  s.source       = { :git => "https://github.com/RowingCaptainChen/Quze2D.git", :tag => s.version }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
