@@ -91,7 +91,7 @@ Quze2D is a podspec test, hope success
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  ="Quze2D", "Quze2D/Quze2D/*.{h,m}"
+  s.source_files  = "Quze2D/**/*.{h,m}"
   # s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
